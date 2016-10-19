@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>oo.jpeg</file>
+        <file>Call-Me-Glitter-.gif</file>
+        <file>calling1.gif</file>
+        <file>calling2.gif</file>
+        <file>ray.tif</file>
+        <file>ray1.jpg</file>
+        <file>calling3.gif</file>
+        <file>calling5.gif</file>
+        <file>calling6.gif</file>
+        <file>TELEPHONE.wav</file>
+        <file>raycalling1_converted.wav</file>
+        <file>hangup.png</file>
+        <file>gps.png</file>
+        <file>weater.png</file>
+        <file>message.png</file>
+        <file>coldplay.mp3</file>
+        <file>oo2.jpg</file>
+        <file>backmirror.png</file>
+        <file>playbutton.png</file>
+        <file>pausebutton.png</file>
+    </qresource>
+</RCC>
